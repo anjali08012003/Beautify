@@ -54,8 +54,7 @@ Explore the application live at [Venus Beauty](https://venus-beauty-db-ad336.web
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions, improvements, or want to report issues, feel free to fork the repository and submit a pull request. For any major changes, please open an issue first to discuss what you would like to change.
 
-## 📝 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
 
 ## 📧 Contact
 - **Name**: Anjali Mittal
